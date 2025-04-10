@@ -2,21 +2,18 @@
 
 This markdown file is dedicated to documenting my journey as I learn the fundamentals of HTML and JavaScript. It will serve as a place to take notes, track progress, and document what I have learned.
 
-## Goals
-- Understand the basics of HTML structure and elements.
-- Learn how to use JavaScript to add interactivity to web pages.
-- Build a small project to practice and reinforce concepts.
-
 ## Progress Tracking
-### Day 1
-- **HTML**: Learned about basic tags like `<html>`, `<head>`, `<body>`, `<p>`, and `<h1>`.
-- **JavaScript**: Explored `console.log()` and `alert()` and basic syntax.
-
-### Day 2
-- **HTML**: Practiced creating lists (`<ul>`, `<ol>`, `<li>`) and links (`<a>`).
-- **JavaScript**: Learned about variables (`var`, `let`, `const`) and data types.
-
-## Notes
-- HTML is not case-sensitive, but it's good practice to write tags in lowercase.
-- JavaScript is case-sensitive, so be careful with variable names.
+### Day 1 (JavaScript)
+- **General Notes**:
+- Statically typed = Types are check before runtime (C++)
+- Dynamically typed = Types are checked at runtime (Python & JS)
+- Strongly typed = Doesn't allowing mixing of data types without explicit conversion (Python)
+- Loosely typed = Allows type mixing by doing automatic conversion e.g. coercion (JavaScript)
+    - This is why Javascript can be a bit more tricky when data types are mixed 
+- Convention dictates using camelCase in JS rather than snake_case in Python
+- Data types that hold single values are the same as python e.g. int, float, string and boolean
+- Browser specific functions;
+    - **alert:** shows a message in the browser
+    - **prompt:** shows a message in the browser and returns a value 
+    - **confirm:** shows a message asking the user pick betwen two options which return true or false
 
