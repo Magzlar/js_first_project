@@ -17,3 +17,4 @@ This markdown file is dedicated to documenting my journey as I learn the fundame
     - **prompt:** shows a message in the browser and returns a value 
     - **confirm:** shows a message asking the user pick betwen two options which return true or false
 
+- Made a small website that uses JS function to determine a users age based on date of birth
