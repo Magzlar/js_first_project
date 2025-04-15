@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-04-11T09:30:00",
+  "cafe_id": "CafeX",
+  "milk_quantity": 2,
+  "bread_quantity": 3,
+  "biscuits": true,
+  "address": "Unit2 London",
+  "spend_limit": 35.50,
+  "delivery_dates": ["2025-04-12", "2025-04-13"],
+  "order_status": "order successfully placed",
+  "email": "example@hotmail.co.uk",
+  "password": "password123"
+}
